@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1031555934228",
+    "project_id": "rockethelp-11a4a",
+    "storage_bucket": "rockethelp-11a4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031555934228:android:afb42b85ff2277c5655f01",
+        "android_client_info": {
+          "package_name": "com.emersson.rockethelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031555934228-fu8fr0c8vj8gv61oqjt0m69i3pdcibgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApYRm5hDXYnOkWCOeZLLZTS7kb6IL_B0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031555934228-fu8fr0c8vj8gv61oqjt0m69i3pdcibgi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1031555934228-beliqeh1tq9uc82f8ni9mghc1otc8csl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emersson.rockethelp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
